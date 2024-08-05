@@ -1,0 +1,7 @@
+aws_access_key: your_aws_access_key
+aws_secret_key: your_aws_secret_key
+region_name: your_aws_region
+bucket_name: your_s3_bucket_name
+file_path: path_to_your_file
+s3_folder: ri-data-analysis/graphics
+upload_url: http://store-files-service:39117/storage-files-service/upload
